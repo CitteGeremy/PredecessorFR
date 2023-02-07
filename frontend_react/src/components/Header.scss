@@ -1,0 +1,52 @@
+.navbar {
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border: 1px solid rgba(41, 41, 41, 0.18);
+    position: fixed;
+
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    padding-right: 1.25rem;
+    z-index: 20;
+}
+
+@media screen and (max-width: 860px) {
+    #navbar {
+        padding-right: 1rem;
+    }
+
+    .navbar {
+        padding-left: 1rem;
+    }
+}
+
+@media screen and (min-width: 860px) {
+    #navbar {
+        padding-right: 5rem;
+    }
+
+    .navbar {
+        padding-left: 5rem;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    #navbar {
+        padding-right: 0;
+    }
+
+    .navbar {
+        padding-left: .5rem;
+    }
+}
+
+.predlogo {
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    margin-top: -2.5px;
+}

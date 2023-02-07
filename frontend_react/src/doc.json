@@ -1,0 +1,292 @@
+{
+    "_createdAt": "2023-01-31T01:33:25Z",
+    "_id": "5ee0f7d8-874c-48e8-96db-c522c60edbe4",
+    "_rev": "GMM8JkOty2PpzEEMcu7k3u",
+    "_type": "post",
+    "_updatedAt": "2023-02-02T17:17:16Z",
+    "author": {
+      "_ref": "363a7575-ca87-406f-91bc-4bede23e12f4",
+      "_type": "reference"
+    },
+    "body": [
+      {
+        "_key": "82456058cb0c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "acdbb4bc2ce10",
+            "_type": "span",
+            "marks": [],
+            "text": "Get ready, folks!\nPredecessor’s first major update of 2023 is nearly here and with it comes some epic changes! We’re set to launch patch v0.3 this "
+          },
+          {
+            "_key": "acdbb4bc2ce11",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Tuesday, January 24th"
+          },
+          {
+            "_key": "acdbb4bc2ce12",
+            "_type": "span",
+            "marks": [],
+            "text": " and we're thrilled to share ahead of time everything you can expect to find in it.\n\nOne of our main focuses for this patch is to empower Mages. We want to make them feel stronger before they even get their first item, without changing their late game power. The goal here is to make playing Mages more impactful and rewarding, especially in the early game.\n\nBut that's not all! We've got some great new game improvements coming your way with two new post-match screens and some weekly leaderboards for you to sink your teeth into. Let’s not also overlook the bounty hunter in the room - "
+          },
+          {
+            "_key": "acdbb4bc2ce13",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Revenant is finally here!"
+          },
+          {
+            "_key": "acdbb4bc2ce14",
+            "_type": "span",
+            "marks": [],
+            "text": "\n\nSpeaking of additions, we've also slipped in a "
+          },
+          {
+            "_key": "acdbb4bc2ce15",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "new mouse sensitivity setting, so be sure to tweak this to your liking "
+          },
+          {
+            "_key": "acdbb4bc2ce16",
+            "_type": "span",
+            "marks": [],
+            "text": "ahead of your next game.\n\nBut wait, there’s more! We're already hard at work on Patch 0.4, where we'll be making changes to ADC itemization as well as improving ranged auto attacks. Plus you'll be thrilled to hear that we're also working on adding our AI game mode! But more on that closer to the time.\n\nLast but not least we are looking to make our update schedule more consistent. Going forwards we’re aiming to deliver patches every two weeks, alternating between "
+          },
+          {
+            "_key": "acdbb4bc2ce17",
+            "_type": "span",
+            "marks": [
+              "em"
+            ],
+            "text": "Balance Patches "
+          },
+          {
+            "_key": "acdbb4bc2ce18",
+            "_type": "span",
+            "marks": [],
+            "text": "and our bigger "
+          },
+          {
+            "_key": "acdbb4bc2ce19",
+            "_type": "span",
+            "marks": [
+              "em"
+            ],
+            "text": "Content Patches"
+          },
+          {
+            "_key": "acdbb4bc2ce110",
+            "_type": "span",
+            "marks": [],
+            "text": ". This cadence might still change, but for now our goal is to ensure a steady flow of content and improvements that you can more easily predict and plan around.\n\nThis is just the beginning of what's to come in 2023. We can't wait for you to see what we have in store and to hear your feedback! Get ready for an exciting year of updates and improvements!\n"
+          },
+          {
+            "_key": "acdbb4bc2ce111",
+            "_type": "span",
+            "marks": [
+              "em"
+            ],
+            "text": "- Bloodmordius, Senior Game Designer"
+          },
+          {
+            "_key": "acdbb4bc2ce112",
+            "_type": "span",
+            "marks": [],
+            "text": "\n\nCheck out the video overview for Patch v0.3"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f128d1d1397e",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-b2979b68c812f56942d9ca2c2a42518a8c3b1188-3000x450-png",
+          "_type": "reference"
+        }
+      },
+      {
+        "_key": "6c6415f17e18",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "95267b9b803f0",
+            "_type": "span",
+            "marks": [
+              "em"
+            ],
+            "text": "The ritual has been performed. The payment has been taken. The fearsome bounty hunter has been awoken, determined to pursue and punish those responsible for the destruction of his homeland."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "735621e2b8f0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "091ae4b48f75",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "28695f55b502",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-59d9ef93c6da6f3fdf389ea4c7da0a6f5a5a558c-1000x800-png",
+          "_type": "reference"
+        }
+      },
+      {
+        "_key": "7bc2f02b5e95",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a24cf7af88120",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "REVENANT ABILITIES:"
+          },
+          {
+            "_key": "a24cf7af88121",
+            "_type": "span",
+            "marks": [],
+            "text": "\n"
+          },
+          {
+            "_key": "a24cf7af88122",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Passive: Bounty Hunter"
+          },
+          {
+            "_key": "a24cf7af88123",
+            "_type": "span",
+            "marks": [],
+            "text": "\nRevenant starts with a rank in Hellfire Rounds. He does not shoot faster with Attack Speed but does gain 5% (+1.5% per level)(+0.1% per 1% Critical Strike Chance) increased Total Physical Power. When Revenant kills an enemy Hero he will gain 50 (+25 per Bounty stack) additional gold.\n"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "ccd291071d73",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "34b2d9fbf1b00",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Basic Attack [LMB]: Hand Cannon"
+          },
+          {
+            "_key": "34b2d9fbf1b01",
+            "_type": "span",
+            "marks": [],
+            "text": "\nRanged basic attack dealing physical damage.\nAfter four basic attacks, Revenant will automatically reload.\nThe final round will always critically strike.\n\n"
+          },
+          {
+            "_key": "34b2d9fbf1b02",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Primary Ability [Q]: Obliterate"
+          },
+          {
+            "_key": "34b2d9fbf1b03",
+            "_type": "span",
+            "marks": [],
+            "text": "\nCD: 12/11/10/9/8\nCost: 70\nEffect: Revenant unleashes 10 ethereal missiles that home in and hit random targets within a wide cone, dealing 60/85/110/135/160 (+50% Bonus Physical Power)(+75% magical power) physical damage per missile. Landing subsequent hits against Enemy Heroes deal 15% damage.\n\n"
+          },
+          {
+            "_key": "34b2d9fbf1b04",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Secondary Ability [E]: Scar"
+          },
+          {
+            "_key": "34b2d9fbf1b05",
+            "_type": "span",
+            "marks": [],
+            "text": "\nCD: 20/19/18/17/16\nCost: 60/65/70/75/80\nEffect: Revenant launches a dark projectile that marks the first enemy target it hits, dealing 10/25/40/55/70 (+50% Bonus Physical Power) physical damage and applying a Scar that lasts for 5 seconds. The next 6/7/8/9/10 instances of damage dealt to this target by Revenant apply a 5% stacking slow for 1.25 seconds and deal 15% bonus magic damage.\n\n"
+          },
+          {
+            "_key": "34b2d9fbf1b06",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Alternate Ability [RMB]: Hellfire Rounds"
+          },
+          {
+            "_key": "34b2d9fbf1b07",
+            "_type": "span",
+            "marks": [],
+            "text": "\nCD: 2\nCost: 0\nEffect:\nPassive: Revenant's 4th shot always critically strikes as well as dealing 6% (+0.5% per Revenant’s Level) of the target’s missing health as bonus physical damage. Revenant’s Critical Bonus Damage is modified to 125/135/145/155/165/175%.\n\nActive: Revenant instantly reloads his Hand Cannon. Reload time is decreased with Additional Attack Speed.\n\n"
+          },
+          {
+            "_key": "34b2d9fbf1b08",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Ultimate Ability [R]: Reckoning"
+          },
+          {
+            "_key": "34b2d9fbf1b09",
+            "_type": "span",
+            "marks": [],
+            "text": "\nCD: 140/120/100\nCost: 100\nEffect: Revenant pulls himself and his target into the Nether Realm for 6/7/8 seconds, rooting the target for 0.5 seconds. Killing his opponent inside the Nether Realm will double the bonus gold gained from Bounty Hunter."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "categories": [
+      {
+        "_key": "5284d88d6ff5",
+        "_ref": "322beb63-2ada-41a4-8441-1c5f10cf8fc5",
+        "_type": "reference"
+      }
+    ],
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-0fb2a75c2a3bf181091e0e98d0e33ec58260a5a6-889x500-png",
+        "_type": "reference"
+      }
+    },
+    "publishedAt": "2023-01-31T01:37:00.000Z",
+    "resume": "Predecessor’s first major update of 2023 is nearly here and with it comes some epic changes! We’re set to launch patch v0.3 this Tuesday, January 24th and we're thrilled to share ahead of time everything you can expect to find in it.",
+    "slug": {
+      "_type": "slug",
+      "current": "predecessor-patch-v0-3"
+    },
+    "title": "Predecessor Patch v0.3"
+  }
